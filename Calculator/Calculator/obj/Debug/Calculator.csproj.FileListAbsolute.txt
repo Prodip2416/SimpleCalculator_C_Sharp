@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Exercise\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Exercise\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Exercise\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Exercise\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Exercise\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Exercise\Calculator\Calculator\obj\Debug\Calculator.pdb
